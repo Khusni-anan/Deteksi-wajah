@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+streamlit
+streamlit-webrtc
+tensorflow
+opencv-python-headless
+av
